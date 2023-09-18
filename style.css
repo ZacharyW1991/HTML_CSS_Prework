@@ -1,0 +1,44 @@
+header {
+    background-color: white opacity: 0.2;
+}
+
+header ul {
+    background-color:darkgray;
+    opacity: 0.3;
+}
+
+body {
+    background-image: url(images/skyline.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+    color:white
+}
+
+div { 
+    margin: 10px;
+    justify-content:left;
+
+}
+
+div .transbox {
+    background-color:lightgrey;
+    opacity: 0.4;
+}
+
+.transbox p{
+    opacity: 1;
+}
+article {
+    float: left;
+    width: 70%
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+
+}
